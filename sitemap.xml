@@ -11,6 +11,15 @@
   </url>
   
   <url>
+    <loc>https://www.guadg.top/posts/hello-world/</loc>
+    
+    <lastmod>2022-09-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.guadg.top/tags/index.html</loc>
     
     <lastmod>2022-09-26</lastmod>
@@ -48,15 +57,6 @@
   
   <url>
     <loc>https://www.guadg.top/about/index.html</loc>
-    
-    <lastmod>2022-09-26</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.guadg.top/posts/hello-world/</loc>
     
     <lastmod>2022-09-26</lastmod>
     
